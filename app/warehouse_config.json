@@ -1,0 +1,8 @@
+{
+  "max_capacity": {
+    "normalbox": 50,
+    "coldbox": 50,
+    "bag": 50
+  }
+}
+

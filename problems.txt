@@ -1,0 +1,15 @@
+We have different shipping containers in our warehouse, we need to be able to
+manage them efficiently.
+
+We have 3 main types of containers -that will be increased - normal boxes, cold
+boxes and bags. For the boxes, it is important to know the hight, width and
+depth. For the bags, besides hight and width, weight is important.
+
+The warehouse operator need to know the following at any moment:
+Store new containers after in the system once they are delivered to the
+warehouse.
+How many containers are in the warehouse of each type
+Ship any container to a customer, for boxes, using a car, for bags using a
+bike.
+
+Since the department is new, the container model is likely to change next year.
